@@ -4,7 +4,7 @@ class QuoteProvider {
     companion object{
 
         fun random(): QuoteModel {
-            val position:Int = (0..10).random()
+            val position:Int = (0..8).random()
             return quote[position]
         }
 
