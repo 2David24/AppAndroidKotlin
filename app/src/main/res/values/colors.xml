@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
+    <color name="black">#000000</color>
+    <color name="colorDefault">#FF00FF00</color>
+    <color name="colorPressed">#FF0000FF</color>
+    <color name="background_color">#FF3D00</color>
+    <color name="display_background_color">#00FF00</color>
+    <color name="text_color">#E3F2FD</color>
+    <!-- Nuevos colores para el diseño -->
+    <color name="button_grid_background">#E0E0E0</color>
+    <color name="display_background">#F5F5F5</color>
+    <color name="equals_button_background">#FF7F50</color>
+    <color name="equals_button_text_color">#FFFFFF</color>
+    <color name="orange">#FFA500</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="orange">#DD7C3C</color>
+    <color name="background">#4F1497</color>
 </resources>
